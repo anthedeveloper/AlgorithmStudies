@@ -1,4 +1,4 @@
-package com.anur.algorithms;
+package com.anur.algorithms.examples;
 
 /**
  * @author aysenurulu
