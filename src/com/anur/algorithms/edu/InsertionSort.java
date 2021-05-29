@@ -26,6 +26,7 @@ public class InsertionSort {
             list.set(minIndex, list.get(i));
             list.set(i, tempMin);
 
+
         }
 
         return list;
